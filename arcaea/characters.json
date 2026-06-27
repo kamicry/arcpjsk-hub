@@ -48,7 +48,7 @@
     "id": "4",
     "name": "Hikari",
     "character": "hikari",
-    "img": "Hikari 01/hikari.png",
+    "img": "Hikari/hikari.png",
     "color": "#ffe7b5",
     "strokeColor": "#ef7d04",
     "defaultText": {
@@ -63,7 +63,7 @@
     "id": "5",
     "name": "Hikari",
     "character": "hikari2",
-    "img": "Hikari 02/hikari.png",
+    "img": "Hikari/hikari2.png",
     "color": "#ffe7b5",
     "strokeColor": "#ef7d04",
     "defaultText": {
@@ -273,7 +273,7 @@
     "id": "19",
     "name": "Tairitsu",
     "character": "tairitsu",
-    "img": "Tairitsu 01/tairitsu.png",
+    "img": "Tairitsu/tairitsu.png",
     "color": "#80e8d5",
     "strokeColor": "#329f8c",
     "defaultText": {
@@ -288,7 +288,7 @@
     "id": "20",
     "name": "Tairitsu",
     "character": "tairitsu2",
-    "img": "Tairitsu 02/tairitsu.png",
+    "img": "Tairitsu/tairitsu2.png",
     "color": "#80e8d5",
     "strokeColor": "#329f8c",
     "defaultText": {
@@ -303,7 +303,7 @@
     "id": "21",
     "name": "Tairitsu",
     "character": "tairitsu3",
-    "img": "Tairitsu 03/tairitsu.png",
+    "img": "Tairitsu/tairitsu3.png",
     "color": "#80e8d5",
     "strokeColor": "#329f8c",
     "defaultText": {
