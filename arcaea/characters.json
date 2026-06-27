@@ -46,7 +46,7 @@
   },
   {
     "id": "4",
-    "name": "Hikari 01",
+    "name": "Hikari",
     "character": "hikari",
     "img": "Hikari/hikari.png",
     "color": "#ffe7b5",
@@ -61,7 +61,7 @@
   },
   {
     "id": "5",
-    "name": "Hikari 02",
+    "name": "Hikari",
     "character": "hikari2",
     "img": "Hikari/hikari2.png",
     "color": "#ffe7b5",
@@ -271,7 +271,7 @@
   },
   {
     "id": "19",
-    "name": "Tairitsu 01",
+    "name": "Tairitsu",
     "character": "tairitsu",
     "img": "Tairitsu/tairitsu.png",
     "color": "#80e8d5",
@@ -286,7 +286,7 @@
   },
   {
     "id": "20",
-    "name": "Tairitsu 02",
+    "name": "Tairitsu",
     "character": "tairitsu2",
     "img": "Tairitsu/tairitsu2.png",
     "color": "#80e8d5",
@@ -301,7 +301,7 @@
   },
   {
     "id": "21",
-    "name": "Tairitsu 03",
+    "name": "Tairitsu",
     "character": "tairitsu3",
     "img": "Tairitsu/tairitsu3.png",
     "color": "#80e8d5",
