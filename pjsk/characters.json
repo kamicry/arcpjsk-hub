@@ -3,7 +3,7 @@
     "id": "3",
     "name": "Airi 01",
     "character": "airi",
-    "img": "airi/Airi_01.png",
+    "img": "Airi/Airi_01.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "keep up",
@@ -17,7 +17,7 @@
     "id": "4",
     "name": "Airi 02",
     "character": "airi",
-    "img": "airi/Airi_02.png",
+    "img": "Airi/Airi_02.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "nice to meet ya",
@@ -31,7 +31,7 @@
     "id": "5",
     "name": "Airi 03",
     "character": "airi",
-    "img": "airi/Airi_03.png",
+    "img": "Airi/Airi_03.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "keep at it!",
@@ -45,7 +45,7 @@
     "id": "6",
     "name": "Airi 04",
     "character": "airi",
-    "img": "airi/Airi_04.png",
+    "img": "Airi/Airi_04.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -59,7 +59,7 @@
     "id": "8",
     "name": "Airi 06",
     "character": "airi",
-    "img": "airi/Airi_06.png",
+    "img": "Airi/Airi_06.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -73,7 +73,7 @@
     "id": "9",
     "name": "Airi 07",
     "character": "airi",
-    "img": "airi/Airi_07.png",
+    "img": "Airi/Airi_07.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -87,7 +87,7 @@
     "id": "10",
     "name": "Airi 08",
     "character": "airi",
-    "img": "airi/Airi_08.png",
+    "img": "Airi/Airi_08.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -101,7 +101,7 @@
     "id": "11",
     "name": "Airi 09",
     "character": "airi",
-    "img": "airi/Airi_09.png",
+    "img": "Airi/Airi_09.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -115,7 +115,7 @@
     "id": "13",
     "name": "Airi 11",
     "character": "airi",
-    "img": "airi/Airi_11.png",
+    "img": "Airi/Airi_11.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -129,7 +129,7 @@
     "id": "14",
     "name": "Airi 12",
     "character": "airi",
-    "img": "airi/Airi_12.png",
+    "img": "Airi/Airi_12.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -143,7 +143,7 @@
     "id": "15",
     "name": "Airi 13",
     "character": "airi",
-    "img": "airi/Airi_13.png",
+    "img": "Airi/Airi_13.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -157,7 +157,7 @@
     "id": "16",
     "name": "Airi 14",
     "character": "airi",
-    "img": "airi/Airi_14.png",
+    "img": "Airi/Airi_14.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -171,7 +171,7 @@
     "id": "18",
     "name": "Airi 16",
     "character": "airi",
-    "img": "airi/Airi_16.png",
+    "img": "Airi/Airi_16.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -185,7 +185,7 @@
     "id": "19",
     "name": "Akito 01",
     "character": "akito",
-    "img": "akito/Akito_01.png",
+    "img": "Akito/Akito_01.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -199,7 +199,7 @@
     "id": "20",
     "name": "Akito 02",
     "character": "akito",
-    "img": "akito/Akito_02.png",
+    "img": "Akito/Akito_02.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -213,7 +213,7 @@
     "id": "21",
     "name": "Akito 03",
     "character": "akito",
-    "img": "akito/Akito_03.png",
+    "img": "Akito/Akito_03.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -227,7 +227,7 @@
     "id": "22",
     "name": "Akito 04",
     "character": "akito",
-    "img": "akito/Akito_04.png",
+    "img": "Akito/Akito_04.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -241,7 +241,7 @@
     "id": "24",
     "name": "Akito 06",
     "character": "akito",
-    "img": "akito/Akito_06.png",
+    "img": "Akito/Akito_06.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -255,7 +255,7 @@
     "id": "25",
     "name": "Akito 07",
     "character": "akito",
-    "img": "akito/Akito_07.png",
+    "img": "Akito/Akito_07.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -269,7 +269,7 @@
     "id": "26",
     "name": "Akito 08",
     "character": "akito",
-    "img": "akito/Akito_08.png",
+    "img": "Akito/Akito_08.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -283,7 +283,7 @@
     "id": "27",
     "name": "Akito 09",
     "character": "akito",
-    "img": "akito/Akito_09.png",
+    "img": "Akito/Akito_09.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -297,7 +297,7 @@
     "id": "29",
     "name": "Akito 11",
     "character": "akito",
-    "img": "akito/Akito_11.png",
+    "img": "Akito/Akito_11.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -311,7 +311,7 @@
     "id": "30",
     "name": "Akito 12",
     "character": "akito",
-    "img": "akito/Akito_12.png",
+    "img": "Akito/Akito_12.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -325,7 +325,7 @@
     "id": "31",
     "name": "Akito 13",
     "character": "akito",
-    "img": "akito/Akito_13.png",
+    "img": "Akito/Akito_13.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -339,7 +339,7 @@
     "id": "32",
     "name": "Akito 14",
     "character": "akito",
-    "img": "akito/Akito_14.png",
+    "img": "Akito/Akito_14.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -353,7 +353,7 @@
     "id": "33",
     "name": "Akito 16",
     "character": "akito",
-    "img": "akito/Akito_16.png",
+    "img": "Akito/Akito_16.png",
     "color": "#FF7722",
     "defaultText": {
       "text": "something",
@@ -367,7 +367,7 @@
     "id": "34",
     "name": "An 01",
     "character": "an",
-    "img": "an/An_01.png",
+    "img": "An/An_01.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -381,7 +381,7 @@
     "id": "35",
     "name": "An 02",
     "character": "an",
-    "img": "an/An_02.png",
+    "img": "An/An_02.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -395,7 +395,7 @@
     "id": "36",
     "name": "An 03",
     "character": "an",
-    "img": "an/An_03.png",
+    "img": "An/An_03.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -409,7 +409,7 @@
     "id": "37",
     "name": "An 04",
     "character": "an",
-    "img": "an/An_04.png",
+    "img": "An/An_04.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -423,7 +423,7 @@
     "id": "39",
     "name": "An 06",
     "character": "an",
-    "img": "an/An_06.png",
+    "img": "An/An_06.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -437,7 +437,7 @@
     "id": "40",
     "name": "An 07",
     "character": "an",
-    "img": "an/An_07.png",
+    "img": "An/An_07.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -451,7 +451,7 @@
     "id": "41",
     "name": "An 08",
     "character": "an",
-    "img": "an/An_08.png",
+    "img": "An/An_08.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -465,7 +465,7 @@
     "id": "42",
     "name": "An 09",
     "character": "an",
-    "img": "an/An_09.png",
+    "img": "An/An_09.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -479,7 +479,7 @@
     "id": "44",
     "name": "An 11",
     "character": "an",
-    "img": "an/An_11.png",
+    "img": "An/An_11.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -493,7 +493,7 @@
     "id": "45",
     "name": "An 12",
     "character": "an",
-    "img": "an/An_12.png",
+    "img": "An/An_12.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -507,7 +507,7 @@
     "id": "46",
     "name": "An 13",
     "character": "an",
-    "img": "an/An_13.png",
+    "img": "An/An_13.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -521,7 +521,7 @@
     "id": "47",
     "name": "An 14",
     "character": "an",
-    "img": "an/An_14.png",
+    "img": "An/An_14.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -535,7 +535,7 @@
     "id": "49",
     "name": "An 16",
     "character": "an",
-    "img": "an/An_16.png",
+    "img": "An/An_16.png",
     "color": "#00BADC",
     "defaultText": {
       "text": "something",
@@ -549,7 +549,7 @@
     "id": "50",
     "name": "Emu 01",
     "character": "emu",
-    "img": "emu/Emu_01.png",
+    "img": "Emu/Emu_01.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -563,7 +563,7 @@
     "id": "51",
     "name": "Emu 02",
     "character": "emu",
-    "img": "emu/Emu_02.png",
+    "img": "Emu/Emu_02.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -577,7 +577,7 @@
     "id": "52",
     "name": "Emu 03",
     "character": "emu",
-    "img": "emu/Emu_03.png",
+    "img": "Emu/Emu_03.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -591,7 +591,7 @@
     "id": "53",
     "name": "Emu 04",
     "character": "emu",
-    "img": "emu/Emu_04.png",
+    "img": "Emu/Emu_04.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -605,7 +605,7 @@
     "id": "55",
     "name": "Emu 06",
     "character": "emu",
-    "img": "emu/Emu_06.png",
+    "img": "Emu/Emu_06.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -619,7 +619,7 @@
     "id": "56",
     "name": "Emu 07",
     "character": "emu",
-    "img": "emu/Emu_07.png",
+    "img": "Emu/Emu_07.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -633,7 +633,7 @@
     "id": "57",
     "name": "Emu 08",
     "character": "emu",
-    "img": "emu/Emu_08.png",
+    "img": "Emu/Emu_08.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -647,7 +647,7 @@
     "id": "58",
     "name": "Emu 09",
     "character": "emu",
-    "img": "emu/Emu_09.png",
+    "img": "Emu/Emu_09.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -661,7 +661,7 @@
     "id": "60",
     "name": "Emu 11",
     "character": "emu",
-    "img": "emu/Emu_11.png",
+    "img": "Emu/Emu_11.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -675,7 +675,7 @@
     "id": "61",
     "name": "Emu 12",
     "character": "emu",
-    "img": "emu/Emu_12.png",
+    "img": "Emu/Emu_12.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -689,7 +689,7 @@
     "id": "62",
     "name": "Emu 13",
     "character": "emu",
-    "img": "emu/Emu_13.png",
+    "img": "Emu/Emu_13.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "Wonderhoy!",
@@ -703,7 +703,7 @@
     "id": "63",
     "name": "Emu 14",
     "character": "emu",
-    "img": "emu/Emu_14.png",
+    "img": "Emu/Emu_14.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -717,7 +717,7 @@
     "id": "65",
     "name": "Emu 16",
     "character": "emu",
-    "img": "emu/Emu_16.png",
+    "img": "Emu/Emu_16.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -731,7 +731,7 @@
     "id": "66",
     "name": "Ena 01",
     "character": "ena",
-    "img": "ena/Ena_01.png",
+    "img": "Ena/Ena_01.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -745,7 +745,7 @@
     "id": "67",
     "name": "Ena 02",
     "character": "ena",
-    "img": "ena/Ena_02.png",
+    "img": "Ena/Ena_02.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -759,7 +759,7 @@
     "id": "68",
     "name": "Ena 03",
     "character": "ena",
-    "img": "ena/Ena_03.png",
+    "img": "Ena/Ena_03.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -773,7 +773,7 @@
     "id": "69",
     "name": "Ena 04",
     "character": "ena",
-    "img": "ena/Ena_04.png",
+    "img": "Ena/Ena_04.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -787,7 +787,7 @@
     "id": "71",
     "name": "Ena 06",
     "character": "ena",
-    "img": "ena/Ena_06.png",
+    "img": "Ena/Ena_06.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -801,7 +801,7 @@
     "id": "72",
     "name": "Ena 07",
     "character": "ena",
-    "img": "ena/Ena_07.png",
+    "img": "Ena/Ena_07.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -815,7 +815,7 @@
     "id": "73",
     "name": "Ena 08",
     "character": "ena",
-    "img": "ena/Ena_08.png",
+    "img": "Ena/Ena_08.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -829,7 +829,7 @@
     "id": "74",
     "name": "Ena 09",
     "character": "ena",
-    "img": "ena/Ena_09.png",
+    "img": "Ena/Ena_09.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -843,7 +843,7 @@
     "id": "76",
     "name": "Ena 11",
     "character": "ena",
-    "img": "ena/Ena_11.png",
+    "img": "Ena/Ena_11.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -857,7 +857,7 @@
     "id": "77",
     "name": "Ena 12",
     "character": "ena",
-    "img": "ena/Ena_12.png",
+    "img": "Ena/Ena_12.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -871,7 +871,7 @@
     "id": "78",
     "name": "Ena 13",
     "character": "ena",
-    "img": "ena/Ena_13.png",
+    "img": "Ena/Ena_13.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -885,7 +885,7 @@
     "id": "79",
     "name": "Ena 14",
     "character": "ena",
-    "img": "ena/Ena_14.png",
+    "img": "Ena/Ena_14.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -899,7 +899,7 @@
     "id": "81",
     "name": "Ena 16",
     "character": "ena",
-    "img": "ena/Ena_16.png",
+    "img": "Ena/Ena_16.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
